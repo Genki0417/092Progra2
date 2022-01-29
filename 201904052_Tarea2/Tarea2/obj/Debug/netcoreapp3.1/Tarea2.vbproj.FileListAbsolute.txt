@@ -1,0 +1,16 @@
+C:\Users\Genki Tashiro\Desktop\Progra 2\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.vbproj.AssemblyReference.cache
+C:\Users\Genki Tashiro\Desktop\Progra 2\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.Form1.resources
+C:\Users\Genki Tashiro\Desktop\Progra 2\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.vbproj.GenerateResource.cache
+C:\Users\Genki Tashiro\Desktop\Progra 2\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genki Tashiro\Desktop\Progra 2\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.AssemblyInfoInputs.cache
+C:\Users\Genki Tashiro\Desktop\Progra 2\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.AssemblyInfo.vb
+C:\Users\Genki Tashiro\Desktop\Progra 2\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.vbproj.CoreCompileInputs.cache
+C:\Users\Genki Tashiro\Desktop\Progra 2\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.exe
+C:\Users\Genki Tashiro\Desktop\Progra 2\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.deps.json
+C:\Users\Genki Tashiro\Desktop\Progra 2\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.runtimeconfig.json
+C:\Users\Genki Tashiro\Desktop\Progra 2\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.runtimeconfig.dev.json
+C:\Users\Genki Tashiro\Desktop\Progra 2\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.dll
+C:\Users\Genki Tashiro\Desktop\Progra 2\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.pdb
+C:\Users\Genki Tashiro\Desktop\Progra 2\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.dll
+C:\Users\Genki Tashiro\Desktop\Progra 2\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.pdb
+C:\Users\Genki Tashiro\Desktop\Progra 2\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.genruntimeconfig.cache
