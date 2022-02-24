@@ -1,0 +1,12 @@
+C:\Users\Genki Tashiro\Desktop\Progra 2\Corto1\Corto1\obj\Debug\Corto1.vbproj.AssemblyReference.cache
+C:\Users\Genki Tashiro\Desktop\Progra 2\Corto1\Corto1\obj\Debug\Corto1.Form1.resources
+C:\Users\Genki Tashiro\Desktop\Progra 2\Corto1\Corto1\obj\Debug\Corto1.Resources.resources
+C:\Users\Genki Tashiro\Desktop\Progra 2\Corto1\Corto1\obj\Debug\Corto1.vbproj.GenerateResource.cache
+C:\Users\Genki Tashiro\Desktop\Progra 2\Corto1\Corto1\obj\Debug\Corto1.vbproj.CoreCompileInputs.cache
+C:\Users\Genki Tashiro\Desktop\Progra 2\Corto1\Corto1\bin\Debug\Corto1.exe.config
+C:\Users\Genki Tashiro\Desktop\Progra 2\Corto1\Corto1\bin\Debug\Corto1.exe
+C:\Users\Genki Tashiro\Desktop\Progra 2\Corto1\Corto1\bin\Debug\Corto1.pdb
+C:\Users\Genki Tashiro\Desktop\Progra 2\Corto1\Corto1\bin\Debug\Corto1.xml
+C:\Users\Genki Tashiro\Desktop\Progra 2\Corto1\Corto1\obj\Debug\Corto1.exe
+C:\Users\Genki Tashiro\Desktop\Progra 2\Corto1\Corto1\obj\Debug\Corto1.xml
+C:\Users\Genki Tashiro\Desktop\Progra 2\Corto1\Corto1\obj\Debug\Corto1.pdb
